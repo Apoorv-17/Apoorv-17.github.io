@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "opportfolio",
-  "homepage": "https://Apoorv-17.github.io",
+  "homepage": "http://harikanani.github.io/portfolio",
   "version": "1.2.0",
   "scripts": {
     "build": "react-scripts build",
