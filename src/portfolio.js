@@ -310,7 +310,7 @@ const certifications = {
       subtitle: "deeplearning.ai",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/YLC25SJQKH3Y",
+        "https://www.coursera.org/account/accomplishments/certificate/LWEXV55BQMWA",
       alt_name: "deeplearning.ai",
       color_code: "#E2405F",
     },
