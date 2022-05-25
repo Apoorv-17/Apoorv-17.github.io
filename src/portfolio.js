@@ -310,7 +310,7 @@ const certifications = {
       subtitle: "deeplearning.ai",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/LWEXV55BQMWA",
+        "https://www.coursera.org/account/accomplishments/certificate/ZPC5YBT2N9WS",
       alt_name: "deeplearning.ai",
       color_code: "#E2405F",
     },
@@ -322,6 +322,16 @@ const certifications = {
         "https://www.coursera.org/account/accomplishments/certificate/TLK2TRH4A2T7",
       alt_name: "Google",
       color_code: "#7A7A7A",
+    },
+    {
+      title:
+        "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",
+      subtitle: "deeplearning.ai",
+      logo_path: "deeplearning_ai_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/LWEXV55BQMWA",
+      alt_name: "deeplearning.ai",
+      color_code: "#7CFC00",
     },
   ],
 };
